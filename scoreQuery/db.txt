@@ -1,0 +1,5 @@
+CREATE DATABASE info;
+USE info;
+CREATE TABLE score( name VARCHAR(10),
+		subject VARCHAR(20),
+		score VARCHAR(20));
