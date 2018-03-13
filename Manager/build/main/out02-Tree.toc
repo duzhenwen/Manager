@@ -1,5 +1,5 @@
 ('c:\\python3\\lib\\site-packages\\pymysql-0.8.0-py3.6.egg',
  None,
- {'*.pyc', 'EGG-INFO', '*.pyd', '*.py', '*.pyo', '*.so'},
+ {'*.pyc', 'EGG-INFO', '*.py', '*.so', '*.pyd', '*.pyo'},
  'DATA',
  [])
